@@ -312,7 +312,7 @@ input[type=checkbox]:before {
 input[type=checkbox]:after {
     font-family: 'themify';
     content: '\e64c';
-    color: #BD945A;
+    color: #ecbcb0;
     background: transparent;
     position: absolute;
     top: 1px;
@@ -358,7 +358,7 @@ input[type=radio]:before {
     display: inline-block;
     top: 0px;
     left: -4px;
-    background-image: radial-gradient(circle, #BD945A 50%, #fff 70%);
+    background-image: radial-gradient(circle, #ecbcb0 50%, #fff 70%);
     background-size: 0;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -530,11 +530,11 @@ input[type=radio]:checked:before {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #BD945A;
+    background: #ecbcb0;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #BD945A;
+    background: #ecbcb0;
 }
 
 
@@ -572,11 +572,11 @@ input[type=radio]:checked:before {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #BD945A;
+    background: #ecbcb0;
 }
 
 .owl-theme .owl-nav [class*=owl-] {
-    background-color: #BD945A;
+    background-color: #ecbcb0;
     width: 30px;
     height: 30px;
     line-height: 25px;
@@ -588,7 +588,7 @@ input[type=radio]:checked:before {
     font-size: 12px;
     margin: 5px;
     padding: 4px 7px;
-    background: #BD945A;
+    background: #ecbcb0;
     display: inline-block;
     cursor: pointer;
     border-radius: 3px;
@@ -606,8 +606,8 @@ input[type=radio]:checked:before {
 
 .owl-theme .owl-nav [class*=owl-]:hover {
     background-color: transparent;
-    border: 1px solid #BD945A;
-    color: #BD945A;
+    border: 1px solid #ecbcb0;
+    color: #ecbcb0;
 }
 
 .owl-carousel .owl-nav button.owl-next, 
@@ -761,13 +761,13 @@ input[type=radio]:checked:before {
 }
 
 #oliven-aside .oliven-main-menu ul li a:hover {
-    border-bottom: 1px solid #BD945A;
+    border-bottom: 1px solid #ecbcb0;
     -webkit-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out
 }
 
 #oliven-aside .oliven-main-menu ul li.oliven-active a {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 
 #oliven-aside .oliven-main-menu ul li.oliven-active a:after {
@@ -802,7 +802,7 @@ input[type=radio]:checked:before {
 }
 
 #oliven-aside .footer1 a {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 
 #oliven-aside .separator {
@@ -1132,7 +1132,7 @@ body.offcanvason .oliven-nav-toggle {
     font-family: 'Classica Two', sans-serif;
     font-weight: 400;
     font-size: 30px;
-    color: #BD945A;
+    color: #ecbcb0;
     line-height: 1.25em;
     margin-bottom: 10px;
 }
@@ -1144,7 +1144,7 @@ body.offcanvason .oliven-nav-toggle {
     font-family: 'Classica Two', sans-serif;
     font-weight: 400;
     font-size: 60px;
-    color: #BD945A;
+    color: #ecbcb0;
     line-height: 1.5em;
     margin-bottom: 5px;
 }
@@ -1199,7 +1199,7 @@ body.offcanvason .oliven-nav-toggle {
 }
 
 .bridegroom .info h6 i {
-    color: #BD945A;
+    color: #ecbcb0;
     font-size: 16px;
 }
 
@@ -1232,8 +1232,8 @@ body.offcanvason .oliven-nav-toggle {
 }
 
 .bridegroom .info .social a:hover {
-    background-color: #BD945A;
-    border-color: #BD945A;
+    background-color: #ecbcb0;
+    border-color: #ecbcb0;
     color: #fff;
 }
 
@@ -1360,7 +1360,7 @@ body.offcanvason .oliven-nav-toggle {
     right: 0;
     left: 45px;
     bottom: 0;
-    border: 10px solid #BD945A;
+    border: 10px solid #ecbcb0;
 }
 
 .story .story-img .img img {
@@ -1640,7 +1640,7 @@ body.offcanvason .oliven-nav-toggle {
 .gallery-menu a.active,
 .gallery-menu a:hover {
     color: #fff;
-    background-color: #BD945A;
+    background-color: #ecbcb0;
 }
 
 .gallery-item {
@@ -1745,7 +1745,7 @@ body.offcanvason .oliven-nav-toggle {
 }
 
 .whenwhere .item .content .tag a:hover {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 
 .whenwhere .item .content h5 {
@@ -1756,7 +1756,7 @@ body.offcanvason .oliven-nav-toggle {
 }
 
 .whenwhere .item .content p i {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 
 .whenwhere-entry {
@@ -1869,8 +1869,8 @@ body.offcanvason .oliven-nav-toggle {
 }
 .buttono a {
     font-family: 'Nunito Sans', sans-serif;
-    background: #BD945A;
-    border: 1px solid #BD945A;
+    background: #ecbcb0;
+    border: 1px solid #ecbcb0;
     color: #fff;
     padding: 10px 20px;
     margin: 0;
@@ -2171,7 +2171,7 @@ body.offcanvason .oliven-nav-toggle {
 }
 .blog-page .post-cont .tag:hover,
 .blog-page .post-cont .date:hover {
-  color: #BD945A;
+  color: #ecbcb0;
 }
 .blog-page .post-cont h5 {
     font-size: 27px;
@@ -2181,7 +2181,7 @@ body.offcanvason .oliven-nav-toggle {
     color: #000;
 }
 .blog-page .post-cont h5 a:hover {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 .blog-page .post-cont .info {
     margin-top: 0px;
@@ -2212,16 +2212,16 @@ body.offcanvason .oliven-nav-toggle {
     margin-bottom: 10px;
 }
 .blog-sidebar .widget ul li:hover {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 .blog-sidebar .widget ul li a {
     color: #888;
 }
 .blog-sidebar .widget ul li a.active {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 .blog-sidebar .widget ul li a:hover {
-    color: #BD945A;
+    color: #ecbcb0;
 }
 .blog-sidebar .widget ul li:last-child {
     margin-bottom: 0;
@@ -2289,7 +2289,7 @@ body.offcanvason .oliven-nav-toggle {
 .blog-sidebar ul.tags li:hover,
 .blog-sidebar ul.tags li a:hover {
     color: #fff;
-    background-color: #BD945A;
+    background-color: #ecbcb0;
 }
 .blog-comment-section {
     padding-top: 60px;
@@ -2356,13 +2356,13 @@ body.offcanvason .oliven-nav-toggle {
 .blog-pagination-wrap li a:hover {
     opacity: 1;
     text-decoration: none;
-    background-color: #BD945A;
-    border: 1px solid #BD945A;
+    background-color: #ecbcb0;
+    border: 1px solid #ecbcb0;
     color: #fff;
 }
 .blog-pagination-wrap li a.active {
-    background-color: #BD945A;
-    border: 1px solid #BD945A;
+    background-color: #ecbcb0;
+    border: 1px solid #ecbcb0;
     color: #fff;
 }
 .blog-pagination-wrap li a i {
